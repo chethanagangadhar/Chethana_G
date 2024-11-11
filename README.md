@@ -52,7 +52,7 @@ I am Chethana, an aspiring Data Scientist and Data Analyst with a strong foundat
 ---
 ### Experience & Education
 -- 🎓 **Master's in Data Sciences** from M S Ramaiah Institute of Technology, 2023-2025
-- -🎓 **Bachelor's in Computer Science & Engineering** from SJB Institute of Technology, 2019-2023
+--🎓 **Bachelor's in Computer Science & Engineering** from SJB Institute of Technology, 2019-2023
 
 
 
