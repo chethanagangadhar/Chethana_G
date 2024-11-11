@@ -11,9 +11,9 @@ I am Chethana, an aspiring Data Scientist and Data Analyst with a strong foundat
 
 
 -🌱 Currently expanding my expertise in Machine Learning and Advanced Data Analysis to build robust, data-driven solutions.  
--📊 Passionate about transforming complex data into meaningful insights through data visualization and dashboard creation.
--💻 Skilled in Python, SQL, and Excel, and focused on leveraging these tools to solve real-world problems and enhance decision-making.
--🎯 Seeking an entry-level Data Analyst or Data Science role, where I can apply my analytical skills and passion for data to drive impactful business solutions.
+-📊 Passionate about transforming complex data into meaningful insights through data visualization and dashboard creation.  
+-💻 Skilled in Python, SQL, and Excel, and focused on leveraging these tools to solve real-world problems and enhance decision-making.  
+-🎯 Seeking an entry-level Data Analyst or Data Science role, where I can apply my analytical skills and passion for data to drive impactful business solutions.  
 ---
 
 
@@ -42,7 +42,7 @@ I am Chethana, an aspiring Data Scientist and Data Analyst with a strong foundat
 ⏳ Time Management  
 🔍 Problem Solving  
 🔄 Adaptability  
-🤝 Team Collaboration
+🤝 Team Collaboration  
 👩‍💼 Leadership Skills
 
 #### Additional Skills
