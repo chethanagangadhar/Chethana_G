@@ -43,7 +43,6 @@ I am Chethana, an aspiring Data Scientist and Data Analyst with a strong foundat
 🔍 Problem Solving  
 🔄 Adaptability  
 🤝 Team Collaboration
-
 👩‍💼 Leadership Skills
 
 #### Additional Skills
